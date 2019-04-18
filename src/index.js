@@ -1,5 +1,4 @@
 import 'core-js/stable'
-// import 'dom-polyfills'
 
 import React from 'react'
 import ReactDOM from 'react-dom'

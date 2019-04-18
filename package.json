@@ -11,7 +11,7 @@
   "author": "Jorn Luiten (https://github.com/publicJorn)",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "^7.1.2",
+    "@babel/core": "^7.4.3",
     "@babel/plugin-proposal-class-properties": "^7.4.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.4.3",
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",
@@ -22,9 +22,9 @@
     "core-js": "^3.0.1",
     "react-hot-loader": "^4.3.11",
     "styled-components": "^4.2.0",
-    "webpack": "^4.23.1",
-    "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.10"
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.3.1"
   },
   "dependencies": {
     "dom-polyfills": "^1.2.2",
